@@ -23,7 +23,7 @@ export const Login = () => {
         <div className='h-[200px] lg:h-full lg:w-2/6'>
             <img className='h-full w-full object-cover' src='./images/img01.jpg' alt='logo chat app' />
         </div>
-        <p className='bg-white2 text-black font-bold p-2 rounded-r absolute bottom-[-25px] left-4'>Chat with random people!</p>
+        <p className='bg-black text-white2 border-1 border-white2 font-bold p-2 rounded-r absolute bottom-[-25px] left-4'>Chat with random people!</p>
     </div>
   )
 }
