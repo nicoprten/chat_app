@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export const Login = () => {
 
-    // testdasasd
+    // testdasasddasdasda
 
   return (
     <div className='relative flex flex-col lg:flex-row lg:h-[400px] mx-auto w-[75%] xl:w-[50%] bg-black border-1 border-white2 rounded'>
